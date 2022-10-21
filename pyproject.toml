@@ -21,4 +21,4 @@ packages = [{include = "test_renovate"}]
 
 [tool.poetry.dependencies]
 python = "^3.10"
-mypy = "^0.931"
+mypy = "^0.982"
